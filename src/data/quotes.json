@@ -1,0 +1,251 @@
+[
+  {
+    "id": "Q-2024-001",
+    "customer": "Acme Corporation",
+    "createdDate": "2024-01-15",
+    "totalValue": 285000,
+    "status": "Draft",
+    "lineItems": [
+      {
+        "id": "LI-001",
+        "product": "HPE ProLiant DL380 Gen11 Server",
+        "quantity": 10,
+        "discount": 5,
+        "services": [
+          {
+            "id": "SVC-001-1",
+            "name": "High Touch Maintenance",
+            "duration": "3 Years",
+            "price": 3600,
+            "discount": 0
+          },
+          {
+            "id": "SVC-001-2",
+            "name": "Service Credits",
+            "duration": "Annual",
+            "price": 2400,
+            "discount": 0
+          }
+        ]
+      },
+      {
+        "id": "LI-002",
+        "product": "HPE Synergy 480 Gen10 Compute Module",
+        "quantity": 5,
+        "discount": 0,
+        "services": [
+          {
+            "id": "SVC-002-1",
+            "name": "Proactive Care Advanced",
+            "duration": "5 Years",
+            "price": 4250,
+            "discount": 8
+          }
+        ]
+      },
+      {
+        "id": "LI-003",
+        "product": "HPE Apollo 6500 Gen10 Plus System",
+        "quantity": 3,
+        "discount": 12,
+        "services": [
+          {
+            "id": "SVC-003-1",
+            "name": "Datacenter Care",
+            "duration": "3 Years",
+            "price": 13500,
+            "discount": 0
+          },
+          {
+            "id": "SVC-003-2",
+            "name": "Operational Services",
+            "duration": "3 Years",
+            "price": 9000,
+            "discount": 0
+          }
+        ]
+      },
+      {
+        "id": "LI-004",
+        "product": "HPE Nimble Storage dHCI",
+        "quantity": 2,
+        "discount": 0,
+        "services": [
+          {
+            "id": "SVC-004-1",
+            "name": "InfoSight Predictive Analytics",
+            "duration": "5 Years",
+            "price": 7000,
+            "discount": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Q-2024-002",
+    "customer": "Global Tech Solutions",
+    "createdDate": "2024-01-20",
+    "totalValue": 195000,
+    "status": "In Review",
+    "lineItems": [
+      {
+        "id": "LI-005",
+        "product": "HPE ProLiant DL360 Gen11 Server",
+        "quantity": 15,
+        "discount": 7,
+        "services": [
+          {
+            "id": "SVC-005-1",
+            "name": "Foundation Care",
+            "duration": "3 Years",
+            "price": 2400,
+            "discount": 0
+          },
+          {
+            "id": "SVC-005-2",
+            "name": "Service Credits",
+            "duration": "Annual",
+            "price": 1600,
+            "discount": 0
+          }
+        ]
+      },
+      {
+        "id": "LI-006",
+        "product": "HPE Alletra 6000",
+        "quantity": 1,
+        "discount": 0,
+        "services": [
+          {
+            "id": "SVC-006-1",
+            "name": "Tech Care Essential",
+            "duration": "5 Years",
+            "price": 11000,
+            "discount": 15
+          }
+        ]
+      },
+      {
+        "id": "LI-007",
+        "product": "HPE Edgeline EL8000 Converged Edge System",
+        "quantity": 4,
+        "discount": 0,
+        "services": [
+          {
+            "id": "SVC-007-1",
+            "name": "High Touch Maintenance",
+            "duration": "3 Years",
+            "price": 5400,
+            "discount": 5
+          },
+          {
+            "id": "SVC-007-2",
+            "name": "Operational Services",
+            "duration": "Annual",
+            "price": 3600,
+            "discount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Q-2024-003",
+    "customer": "DataCore Industries",
+    "createdDate": "2024-01-25",
+    "totalValue": 425000,
+    "status": "Draft",
+    "lineItems": [
+      {
+        "id": "LI-008",
+        "product": "HPE Superdome Flex 280",
+        "quantity": 2,
+        "discount": 10,
+        "services": [
+          {
+            "id": "SVC-008-1",
+            "name": "Datacenter Care",
+            "duration": "5 Years",
+            "price": 28500,
+            "discount": 0
+          }
+        ]
+      },
+      {
+        "id": "LI-009",
+        "product": "HPE Primera 670",
+        "quantity": 1,
+        "discount": 0,
+        "services": [
+          {
+            "id": "SVC-009-1",
+            "name": "Proactive Care Advanced",
+            "duration": "5 Years",
+            "price": 24000,
+            "discount": 12
+          },
+          {
+            "id": "SVC-009-2",
+            "name": "Service Credits",
+            "duration": "Annual",
+            "price": 12000,
+            "discount": 0
+          }
+        ]
+      },
+      {
+        "id": "LI-010",
+        "product": "HPE ProLiant DL580 Gen11 Server",
+        "quantity": 8,
+        "discount": 6,
+        "services": [
+          {
+            "id": "SVC-010-1",
+            "name": "Foundation Care",
+            "duration": "3 Years",
+            "price": 6600,
+            "discount": 0
+          }
+        ]
+      },
+      {
+        "id": "LI-011",
+        "product": "HPE Apollo 2000 Gen10 Plus System",
+        "quantity": 5,
+        "discount": 0,
+        "services": [
+          {
+            "id": "SVC-011-1",
+            "name": "High Touch Maintenance",
+            "duration": "3 Years",
+            "price": 4500,
+            "discount": 8
+          },
+          {
+            "id": "SVC-011-2",
+            "name": "Tech Care Essential",
+            "duration": "Annual",
+            "price": 3000,
+            "discount": 0
+          }
+        ]
+      },
+      {
+        "id": "LI-012",
+        "product": "HPE Aruba CX 10000 Switch",
+        "quantity": 6,
+        "discount": 5,
+        "services": [
+          {
+            "id": "SVC-012-1",
+            "name": "Foundation Care",
+            "duration": "5 Years",
+            "price": 3600,
+            "discount": 0
+          }
+        ]
+      }
+    ]
+  }
+]
