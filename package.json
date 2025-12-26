@@ -2,6 +2,7 @@
   "name": "hpe-quote-discount-poc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nickgulson11.github.io/hpeSND",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
